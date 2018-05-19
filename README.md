@@ -8,3 +8,6 @@ Now the Pi Zero doesn't get nearly as hot as before!
 Download the files on [Thingiverse](https://www.thingiverse.com/thing:2908211), where you can also find the originals.
 
 I might share the configuration of *motion* that is used for the motion detection and the software that shares the images to a private Slack channel later on, but it's still a bit of a work in progress because of false positives.
+
+| ![](https://github.com/unixb0y/ZeroCam-NightVision-Security-Camera/blob/master/IMG_8020.JPG?raw=true) | ![](https://github.com/unixb0y/ZeroCam-NightVision-Security-Camera/blob/master/IMG_8021.JPG?raw=true) |
+|:--------------------------------------------------:|:--------------------------------------------------:|
