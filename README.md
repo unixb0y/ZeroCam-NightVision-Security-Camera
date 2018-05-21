@@ -1,5 +1,5 @@
 # ZeroCam NightVision Security Camera
-This is a security camera using a Raspberry Pi Zero and a [ZeroCam NightVision from Adafruit](https://thepihut.com/collections/raspberry-pi-camera/products/zerocam-fisheye-nightvision-for-pizero-raspberry-pi-3).
+This is a security camera using a Raspberry Pi Zero W and a [ZeroCam NightVision from Adafruit](https://thepihut.com/collections/raspberry-pi-camera/products/zerocam-fisheye-nightvision-for-pizero-raspberry-pi-3).
 
 I remixed a model from Thingiverse to fit the original ZeroCam NightVision.  
 The final project is now live in my front yard as a security camera.  
